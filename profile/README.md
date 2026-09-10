@@ -1,6 +1,6 @@
 # TrazTech
 
-Security and compliance consultancy based in Toronto, Canada. Founded by [Jacob Masse](https://traztech.ca/about) - published security researcher with 5 CVEs including [CVE-2024-45163](https://nvd.nist.gov/vuln/detail/CVE-2024-45163) (CVSS 9.1).
+Security and compliance consultancy based in Toronto, Canada. Founded by [Jacob Masse](https://jacobmasse.com) - published security researcher with 5 CVEs including [CVE-2024-45163](https://nvd.nist.gov/vuln/detail/CVE-2024-45163) (CVSS 9.1).
 
 ## What We Do
 
