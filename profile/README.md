@@ -16,17 +16,11 @@ We help startups and growing companies get audit-ready and stay secure. Our serv
 
 | Repository | Description |
 |---|---|
-| [awesome-soc2](https://github.com/TrazTech-Inc/awesome-soc2) | Curated list of SOC 2 resources - 216 entries |
-| [startup-security-policies](https://github.com/TrazTech-Inc/startup-security-policies) | 13 security policy templates with SOC 2 + ISO 27001 mappings |
-| [cloud-security-audit-scripts](https://github.com/TrazTech-Inc/cloud-security-audit-scripts) | AWS/GCP/Azure pre-audit security assessment scripts (5,300+ lines) |
+| [awesome-soc2](https://github.com/TrazTech-Inc/awesome-soc2) | Curated list of SOC 2 resources - 250+ entries |
+| [startup-security-policies](https://github.com/TrazTech-Inc/startup-security-policies) | 15 security policy templates with SOC 2 + ISO 27001 mappings |
+| [cloud-security-audit-scripts](https://github.com/TrazTech-Inc/cloud-security-audit-scripts) | AWS/GCP/Azure pre-audit security assessment scripts (4,700+ lines) |
 | [awesome-compliance-automation](https://github.com/TrazTech-Inc/awesome-compliance-automation) | Curated list of compliance automation tools across all frameworks |
 | [vendor-risk-assessment-toolkit](https://github.com/TrazTech-Inc/vendor-risk-assessment-toolkit) | Vendor risk assessment framework with templates, scoring, and automation |
-
-## Free Tools
-
-- [SOC 2 Readiness Checklist](https://traztech.ca/soc2-checklist) - See where you stand before engaging an auditor
-- [Cloud Security Posture Check](https://traztech.ca/cloud-check) - Quick assessment of your cloud environment
-- [Workspace Portal](https://traztech.ca/workspace) - Client portal for active engagements
 
 ## Learn More
 
